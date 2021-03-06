@@ -1,0 +1,3 @@
+/cygdrive/d/fac/sem3/compnet/lab1/1_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/fac/sem3/compnet/lab1/1_server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/fac/sem3/compnet/lab1/1_server/cmake-build-debug/CMakeFiles/1_server.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/6_server.dir/main.c.o  -o 6_server.exe -Wl,--out-implib,lib6_server.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

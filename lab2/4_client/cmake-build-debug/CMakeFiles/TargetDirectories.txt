@@ -1,0 +1,3 @@
+/home/carinaioana09/Documents/CompNet/marire/lab2/4_client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/carinaioana09/Documents/CompNet/marire/lab2/4_client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/carinaioana09/Documents/CompNet/marire/lab2/4_client/cmake-build-debug/CMakeFiles/4_client.dir

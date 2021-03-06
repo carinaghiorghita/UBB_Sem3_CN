@@ -1,0 +1,11 @@
+﻿  server.c
+D:\fac\sem3\compnet\lab1\server\server\server.c(40,57): warning C4133: 'function': incompatible types - from 'sockaddr_in *' to 'sockaddr *'
+D:\fac\sem3\compnet\lab1\server\server\server.c(53,17): warning C4013: 'read' undefined; assuming extern returning int
+D:\fac\sem3\compnet\lab1\server\server\server.c(54,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'int'
+D:\fac\sem3\compnet\lab1\server\server\server.c(54,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'char *'
+D:\fac\sem3\compnet\lab1\server\server\server.c(54,11): warning C4473: 'printf' : not enough arguments passed for format string
+D:\fac\sem3\compnet\lab1\server\server\server.c(54,11): message : placeholders and their parameters expect 5 variadic arguments, but 4 were provided
+D:\fac\sem3\compnet\lab1\server\server\server.c(54,11): message : the missing variadic argument 5 is required by format string '%s'
+D:\fac\sem3\compnet\lab1\server\server\server.c(55,9): warning C4013: 'write' undefined; assuming extern returning int
+D:\fac\sem3\compnet\lab1\server\server\server.c(59,8): warning C4013: 'close' undefined; assuming extern returning int
+  server.vcxproj -> D:\fac\sem3\compnet\lab1\server\Debug\server.exe

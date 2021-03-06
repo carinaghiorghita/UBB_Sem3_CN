@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/fac/sem3/compnet/marire/lab2/5_server/main.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+string.h
+-
+sys/wait.h
+-
+
