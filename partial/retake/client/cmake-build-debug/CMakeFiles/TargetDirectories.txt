@@ -1,0 +1,3 @@
+/home/carinaioana09/Documents/CompNet/socketsExam/client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/carinaioana09/Documents/CompNet/socketsExam/client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/carinaioana09/Documents/CompNet/socketsExam/client/cmake-build-debug/CMakeFiles/client.dir

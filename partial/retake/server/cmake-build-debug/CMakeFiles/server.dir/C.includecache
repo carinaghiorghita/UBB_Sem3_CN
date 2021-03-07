@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/carinaioana09/Documents/CompNet/socketsExam/server/main.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+stdbool.h
+-
+
